@@ -16,7 +16,9 @@ We will be making a CV builder website, where a user can input their information
 - Python3.8
 - Pip (this should already come with Python but make sure to [upgrade](https://pip.pypa.io/en/stable/installing/) it)
 - Install virtualenv:
-  sudo pip3 install virtualenv  / sudo pip install virtualenv
+  
+  `sudo pip3 install virtualenv  / sudo pip install virtualenv`
+
 - Yourself
 
 # See you there!
