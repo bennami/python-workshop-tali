@@ -1,4 +1,4 @@
-# Python: Django workshop
+![Django](https://res.cloudinary.com/practicaldev/image/fetch/s--TIeFdN8q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/pbm1bosqot3g4vvc2xvk.png)
 
 ## What is Django?
 
