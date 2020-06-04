@@ -10,7 +10,7 @@ Django is a fast, versatile and secure framework. It takes care of user authenti
 
 ## What will we be building?
 
-We will be making a CV builder website, where a user can input their information and render a cv in a pre-made template. This way, you will get a hands-on introduction to form handling, data management, styling and authentication within Django.
+We will be making a CV builder website, where a user can input their information and render their CV in a pre-made template. This way, you will get a hands-on introduction to form handling, data management, styling and authentication within Django.
 
 ## What do you need for the workshop
 - Python3.8
