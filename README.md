@@ -21,4 +21,4 @@ We will be making a CV builder website, where a user can input their information
 
 - Yourself
 
-# See you there!
+# Be there or be square!
