@@ -14,6 +14,14 @@ We will be making a CV builder website, where a user can input their information
 
 ## What do you need for the workshop
 - Python3.8
+- Django 3.0.5:
+  - Check your Django version:
+    `python -m django --version`
+  - Update Django:
+    `pip install --upgrade django==1.6.5`  `
+  
+
+
 - Pip to install Django (this should already come with Python but make sure to [upgrade](https://pip.pypa.io/en/stable/installing/) it)
 - Install virtualenv:
   
