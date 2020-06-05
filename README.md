@@ -14,11 +14,11 @@ We will be making a CV builder website, where a user can input their information
 
 ## What do you need for the workshop
 - Python3.8
-- Django 3.0.5:
+- Django 3.0.7:
   - Check your Django version:
     `python -m django --version`
   - Update Django:
-    `pip install --upgrade django==3.0.5`  `
+    `pip install --upgrade django==3.0.7`
   
 
 
