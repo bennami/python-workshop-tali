@@ -18,7 +18,7 @@ We will be making a CV builder website, where a user can input their information
   - Check your Django version:
     `python -m django --version`
   - Update Django:
-    `pip install --upgrade django==1.6.5`  `
+    `pip install --upgrade django==3.0.5`  `
   
 
 
