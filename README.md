@@ -19,10 +19,14 @@ We will be making a CV builder website, where a user can input their information
     `python3 -m django --version`
   - Update Django:
     `pip3 install --upgrade django==3.0.7`
+
+- Pip installer:
+  
+  `sudo -H pip3 install --upgrade pip`
   
 - Install virtualenv:
   
-  `sudo pip3 install virtualenv`
+  `sudo -H pip3 install virtualenv`
 
 - Yourself
 
