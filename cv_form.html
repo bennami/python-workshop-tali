@@ -2,28 +2,17 @@
 
 {% block content %}
     <h2>New person</h2>
-    <form method="POST" class="post-form">{% csrf_token %}
-        <ul>{% if form.errors %}
-            {% for field in form %}
+    <form method="POST" class="post-form" enctype="multipart/form-data">
+        <ul></ul>
+        <h4>Personalia</h4>
 
-                {% for error in field.errors %}
-                    {{ field.label }}: {{ error|escape }}
-                {% endfor %}
+        <h4>Education</h4>
 
-            {% endfor %}
-        {% endif %}</ul>
-        {% for field in personform %}
-            {{ field.label }}
-            {{ field }}<br>
-        {% endfor %}
-        {% for field in contactform %}
-            {{ field.label }}
-            {{ field }}<br>
-        {% endfor %}
-        {{ educationform.as_p }}
-        {{ workform.as_p }}
-        {{ skillform.as_p }}
-        {{ hobbyform.as_p }}
+        <h4>Work Experience</h4>
+
+        <h4>Skills</h4>
+
         <button type="submit" class="save btn btn-default">Save</button>
     </form>
+
 {% endblock %}

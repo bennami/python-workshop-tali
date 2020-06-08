@@ -58,10 +58,3 @@ How do you add styling to a Django template?
 
 Make sure the user registers and logs in so their info and template will be saved.
 
-## Bonus:
-
-### Make your forms dynamic so the user can add multiple work experience and education items
-
-### Allow the user to save their cv as a pdf
-
-# cv_builder
